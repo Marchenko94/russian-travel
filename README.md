@@ -5,7 +5,7 @@
 
 ### Россия — это сундук с сокровищами, которые можно перебирать бесконечно. У нас полно незабываемых мест от Выборга до Камчатки.
 
-**https://marchenko94.github.io/russian-travel/**
+**https://marchenko94.github.io/russian-travel/index.html**
 
 ------
 
