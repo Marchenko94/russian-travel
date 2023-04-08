@@ -1,0 +1,7 @@
+.header__row-list {
+    margin: 18px 0px 6px 0px;
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}

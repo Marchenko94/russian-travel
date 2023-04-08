@@ -1,0 +1,14 @@
+.place__website {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    align-self: end;
+}
+@media screen and (max-width: 320px) {
+    .place__website {
+      align-self: auto;  
+      width: 288px;
+      margin: 32px auto 32px auto; 
+      grid-row: 2/3; 
+      grid-column: 1/2;
+    }
+  }
