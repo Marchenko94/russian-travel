@@ -3,7 +3,7 @@
     grid-row: 1/2;
     align-self: end;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 620px) {
     .place__website {
       align-self: auto;
       width: 288px;

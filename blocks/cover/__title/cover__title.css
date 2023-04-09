@@ -6,11 +6,12 @@
     text-align: center;
     color: #FFFFFF;
     max-width: 560px;
+    width: 100%;
     margin: 0px auto 32px auto;
     position: relative;
     z-index: 2;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 680px) {
     .cover__title {
       width: 288px;
       margin: 0 auto 16px auto;
