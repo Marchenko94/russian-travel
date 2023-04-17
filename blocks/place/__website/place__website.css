@@ -6,7 +6,8 @@
 @media screen and (max-width: 620px) {
     .place__website {
       align-self: auto;
-      width: 288px;
+      max-width: 288px;
+      width: 100%;
       margin: 32px auto 32px auto;
       grid-row: 2/3;
       grid-column: 1/2;
