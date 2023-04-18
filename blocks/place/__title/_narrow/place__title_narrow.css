@@ -2,6 +2,9 @@
     min-height: 92px;
     letter-spacing: 1px;
 }
-.place__title_narrow {
-    min-height: max-content;
-}
+
+@media screen and (max-width: 320px) {
+    .place__title_narrow {
+      min-height: max-content;
+    }
+  }
